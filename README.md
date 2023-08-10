@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mukeshkvmj@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mukesh663/mukesh663/blob/9630da377bee6c76485a42242fcdcc90fe077626/resume.pdf](https://github.com/mukesh663/mukesh663/blob/9630da377bee6c76485a42242fcdcc90fe077626/resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/mukesh663/mukesh663/blob/9630da377bee6c76485a42242fcdcc90fe077626/resume.pdf)
 
 - ⚡ Fun fact **I listen to EDM**
 
